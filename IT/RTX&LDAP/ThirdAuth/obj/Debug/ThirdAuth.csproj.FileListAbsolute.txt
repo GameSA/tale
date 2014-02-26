@@ -1,0 +1,14 @@
+d:\working\system\运维项目\RTX&LDAP\ThirdAuth\bin\Debug\ThirdAuth.exe.config
+d:\working\system\运维项目\RTX&LDAP\ThirdAuth\obj\Debug\ThirdAuth.csproj.ResolveComReference.cache
+d:\working\system\运维文档\游戏运维那些事儿\github\tale\IT\RTX&LDAP\ThirdAuth\bin\Debug\ThirdAuth.exe.config
+d:\working\system\运维文档\游戏运维那些事儿\github\tale\IT\RTX&LDAP\ThirdAuth\obj\Debug\ThirdAuth.csproj.ResolveComReference.cache
+d:\working\system\运维文档\游戏运维那些事儿\github\tale\IT\RTX&LDAP\ThirdAuth\obj\Debug\Interop.RTXSAPILib.dll
+d:\working\system\运维文档\游戏运维那些事儿\github\tale\IT\RTX&LDAP\ThirdAuth\bin\Debug\ThirdAuth.exe
+d:\working\system\运维文档\游戏运维那些事儿\github\tale\IT\RTX&LDAP\ThirdAuth\bin\Debug\ThirdAuth.pdb
+d:\working\system\运维文档\游戏运维那些事儿\github\tale\IT\RTX&LDAP\ThirdAuth\bin\Debug\Interop.RTXSAPILib.dll
+d:\working\system\运维文档\游戏运维那些事儿\github\tale\IT\RTX&LDAP\ThirdAuth\obj\Debug\ThirdAuth.csprojResolveAssemblyReference.cache
+d:\working\system\运维文档\游戏运维那些事儿\github\tale\IT\RTX&LDAP\ThirdAuth\obj\Debug\ThirdAuth.MainWindow.resources
+d:\working\system\运维文档\游戏运维那些事儿\github\tale\IT\RTX&LDAP\ThirdAuth\obj\Debug\ThirdAuth.Properties.Resources.resources
+d:\working\system\运维文档\游戏运维那些事儿\github\tale\IT\RTX&LDAP\ThirdAuth\obj\Debug\ThirdAuth.csproj.GenerateResource.Cache
+d:\working\system\运维文档\游戏运维那些事儿\github\tale\IT\RTX&LDAP\ThirdAuth\obj\Debug\ThirdAuth.exe
+d:\working\system\运维文档\游戏运维那些事儿\github\tale\IT\RTX&LDAP\ThirdAuth\obj\Debug\ThirdAuth.pdb
